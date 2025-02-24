@@ -2,13 +2,13 @@
   
 
 if(!defined('DB_HOST_NAME'))
- define('DB_HOST_NAME', '54.165.173.72:3306');
+ define('DB_HOST_NAME', '172.31.86.221 :3306');
 
  if(!defined('DB_USER_NAME'))
- define('DB_USER_NAME', 'root');
+ define('DB_USER_NAME', 'kavi2');
 
  if(!defined('DB_USER_PASSWORD'))
- define('DB_USER_PASSWORD', 'Admin@1234');
+ define('DB_USER_PASSWORD', 'Kavi2@1234!');
 //define('DB_HOST_NAME', 'database-spacece.cjnrqpvibfnn.ap-south-1.rds.amazonaws.com');
 
 //if(!defined('DB_USER_NAME'))
