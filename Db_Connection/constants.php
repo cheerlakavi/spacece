@@ -2,7 +2,7 @@
   
 
 if(!defined('DB_HOST_NAME'))
- define('DB_HOST_NAME', '54.165.173.72:3306');
+ define('DB_HOST_NAME', '172.31.86.221:3306');
 
  if(!defined('DB_USER_NAME'))
  define('DB_USER_NAME', 'kavi2');
