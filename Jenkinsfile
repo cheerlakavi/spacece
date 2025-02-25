@@ -21,7 +21,7 @@ pipeline {
                                     remoteDirectory: '/var/www/html',
                                     remoteDirectorySDF: false,
                                     removePrefix: '',
-                                    sourceFiles: '**/*.'
+                                    sourceFiles: '**/*'
                                 )
                             ],
                             usePromotionTimestamp: false,
